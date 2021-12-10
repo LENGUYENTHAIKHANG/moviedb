@@ -1,0 +1,10 @@
+.slider{
+    width: 1500px;
+    height: 500px;
+    margin-left: 5%;
+    transition-duration: 0.6s;
+    background-color:#d09683;
+}
+.porpularlink{
+   text-decoration: none;
+}

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.imgslide{
+    zoom: 100%;
+    width: 100%;
+    height: 520px;
+    border-bottom-left-radius: 30px;
+   border-bottom-right-radius: 30px;
+}
+.fade{ 
+width: 90%;
+margin-left: auto;
+   margin-right: auto;
+   
+   border-bottom-left-radius: 30px;
+   border-bottom-right-radius: 30px;
+   height: 520px;
+   background-color: #2d4262;
+   
+}
+.slide-container{
+   text-align: center;
+  
+   width: 100%;
+}
+.fade-title{
+    font-size: 50px;
+    color: #2d4262;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+   
+}
+.link-fade{
+    text-decoration: none;
+}
+.each-fade{
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    display: inline-block;
+    width: 40%;
+    background-color: rgba(67, 68, 68, 0.473);
+    height: 300px;
+    width: 40%;
+}
+.overview{
+    
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.btnxemthem{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #2d4262;
+    border:2px solid #fff;
+    color: #fff;
+}

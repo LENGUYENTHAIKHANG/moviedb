@@ -1,0 +1,56 @@
+.movie{
+    width: 250px;
+    height: 460px;
+    border: 6px solid #2d4262;
+    border-radius:20px ;
+    text-align: center;
+    font-weight: bold;
+    transition-duration: 0.6s;
+    background-color: #2d4262;;
+    
+
+}
+.movie:hover{
+    box-shadow: 5px 5px 5px #363237;
+    
+}
+.movie-poster{
+    width: 250px;
+    height: 370px;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    border-top-left-radius:13px ;
+    border-top-right-radius:13px ;
+    
+}
+.vote-movie{
+    width: 40px;
+    border: 2px solid #d09683;
+    border-radius: 20px;
+    margin-left: 5%;
+    padding: 5px;
+    background-color: black;
+}
+.movie-title{
+    width: 90%;
+    color: aliceblue;
+    
+}
+.movie-title:hover{
+    color: #d09683;
+}
+.movie-info{
+    display: flex;
+}
+.vote-movie.green{
+    color:rgb(7, 248, 19) ;
+    font-size: 20px;
+}
+.vote-movie.orange{
+  color: rgb(4, 250, 189);
+  font-size: 20px;
+
+}
+.vote-movie.red{
+    color: crimson;
+    font-size: 20px;
+}

@@ -1,0 +1,55 @@
+.actor-infoss{
+    margin-top: 5%;
+    width: 70%;
+    text-align: center;
+    display: flex;
+    border: 5px solid #fff;
+    margin-left: 16%;
+    box-shadow: 5px 5px 5px 5px rgb(10, 10, 10);
+    
+    
+}
+.actor-image{
+    width: 200px;
+    
+   
+}
+.actor-infos{
+    width: 70%;
+ 
+    margin-left: 5%;
+    text-align: left;
+    
+}
+.actor-name{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.actor-cast{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+.actor-casts{
+    padding: 20px;
+}
+.actor-tt{
+    width: 100%;
+    border-top: 5px solid rgb(14, 13, 13);
+    
+    
+}
+.text-info{
+   
+    
+    overflow: hidden;
+    width: 80%;
+    height: 110px;
+}
+.text-info:active{
+    overflow:visible;
+    width: 80%;
+    height: 100px;
+}

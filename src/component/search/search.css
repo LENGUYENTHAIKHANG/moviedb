@@ -1,0 +1,47 @@
+.search-dv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.tim-kiems{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 50px;
+    margin-top: 2%;
+    border-radius: 20px;
+}
+.search-de-item{
+    padding: 30px;
+}
+.search-moive{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tab{
+    height: 40px;
+    width: 200px;
+    border-radius: 30px !important;
+    text-align: center;
+    transition-duration: 0.6s;
+    border: 2px solid rgb(19, 18, 18);
+    
+    
+}
+.tab:hover{
+    background-color: burlywood;
+    
+}
+.tab-list{
+display: flex;
+list-style: none;
+
+}
+.tab-title{
+    margin-top: 5%;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+    
+}

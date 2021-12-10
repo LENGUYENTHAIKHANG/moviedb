@@ -1,0 +1,31 @@
+
+.search{
+    text-align: center;
+    margin-top: 20px;
+}
+.search-input{
+    width: 70%;
+    height: 40px;
+    border-right: none;
+    border-top-left-radius:20px ;
+    border-bottom-left-radius:20px ;
+    
+}
+.search-btn{
+    width: 10%;
+    height: 46px;
+    border-left: none;
+    border-top-right-radius:20px ;
+    border-bottom-right-radius:20px ;
+}
+.home-popular{
+    margin-top: 10px;
+    border-top :3px solid #2d4262;
+    height: 600px;
+    border-bottom :3px solid #2d4262;
+  
+   
+}
+.title-popular{
+    margin-left: 10%;
+}
